@@ -15,13 +15,13 @@ npm install
 
 npm start or npm run dev
 
-Open your favorite browser and navigate to http://localhost:8080 to experience the magic 😎!
+Open your favorite browser and navigate to http://localhost:8000 to experience the magic 😎!
 
 The server will automatically reload as you make changes, and any lint errors will be displayed in the console.
 
 ## Step 3: Testing in Postman
 
-Using the postman it recommended way to test all the sceneraios of an api
+Using the Postman it is the recommended way to test all the scenarios of an API
 
 
 ## `🚀 Note to Repo Visitors`
